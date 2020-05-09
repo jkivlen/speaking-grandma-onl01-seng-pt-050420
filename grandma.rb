@@ -17,5 +17,5 @@ def speak_to_grandma(phrase)
   elseif phrase != phrase.upcase
     return "HUH?! SPEAK UP, SONNY!"
   elseif phrase = phrase.upcase
-    return ""
+    return "NO, NOT SINCE 1938!"
 end
